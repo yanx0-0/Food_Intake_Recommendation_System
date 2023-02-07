@@ -1,0 +1,7 @@
+{
+  "name": "Food_Intake_Recommendation_System",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
